@@ -9,7 +9,7 @@
 > **"A ponte definitiva entre a liberdade criativa da IA e o rigor técnico do Compliance."**
 > *Status: 🚀 Serviço B2B Ativo & Homologado.*
 
-![Ecossistema Laurinha](assets/laurinha_logo__card_site_cristalwolf_800x450_prop16-9.jpg)
+![Ecossistema Laurinha](laurinha_logo__card_site_cristalwolf_800x450_prop16-9.jpg)
 
 ---
 
