@@ -50,9 +50,9 @@ Diferente de simples interfaces ("wrappers") do ChatGPT, o Ecossistema Laurinha 
 * **Gatilho:** O usuário invoca o bot no canal de comunicação (ex: `@Laurinha`).  
 * **Input:** O usuário fornece os detalhes da oferta (ex: *"Tênis com 50% de desconto"*).  
 * **Processamento (Motor Híbrido):**  
-  1. O modelo de linguagem gera variações da cópia (GenAI).  
-  2. O script em Power Fx / Python entra em loop validando as restrições técnicas.  
-  3. Opções inválidas são descartadas ou auto-corrigidas pela máquina.  
+  1 - O modelo de linguagem gera variações da cópia (GenAI).  
+  2 - O script em Power Fx / Python entra em loop validando as restrições técnicas.  
+  3 - Opções inválidas são descartadas ou auto-corrigidas pela máquina.  
 * **Output:** A IA retorna um "Adaptive Card" estruturado com o conteúdo 100% pronto e seguro para envio.
 
 ---
